@@ -1,0 +1,22 @@
+[2025-03-18T19:02:33.996495600] ERROR: null
+	 at java.base/java.util.Scanner.throwFor(Scanner.java:964)
+	 at java.base/java.util.Scanner.next(Scanner.java:1619)
+	 at java.base/java.util.Scanner.nextInt(Scanner.java:2284)
+	 at java.base/java.util.Scanner.nextInt(Scanner.java:2238)
+	 at com.gdb.ui.AccountUI.showMenu(AccountUI.java:36)
+	 at com.gdb.ui.HomeForm.main(HomeForm.java:6)
+-------------------------------------------------
+[2025-03-18T19:02:34.344023900] ERROR: null
+	 at java.base/java.util.Scanner.throwFor(Scanner.java:964)
+	 at java.base/java.util.Scanner.next(Scanner.java:1619)
+	 at java.base/java.util.Scanner.nextInt(Scanner.java:2284)
+	 at java.base/java.util.Scanner.nextInt(Scanner.java:2238)
+	 at com.gdb.ui.AccountUI.showMenu(AccountUI.java:36)
+	 at com.gdb.ui.HomeForm.main(HomeForm.java:6)
+-------------------------------------------------
+[2025-03-18T19:02:41.968267600] ERROR: Invalid gender. Please enter Male or Female.
+	 at com.gdb.ui.AccountUI.acceptSavingsAccountInfo(AccountUI.java:170)
+	 at com.gdb.ui.AccountUI.openAccount(AccountUI.java:92)
+	 at com.gdb.ui.AccountUI.showMenu(AccountUI.java:43)
+	 at com.gdb.ui.HomeForm.main(HomeForm.java:6)
+-------------------------------------------------

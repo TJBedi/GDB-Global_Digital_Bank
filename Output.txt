@@ -1,0 +1,136 @@
+************************************************************************************
+			Welcome to Global Destination Bank!
+************************************************************************************
+DASHBOARD
+1.Open
+2.Close
+3.Deposit
+4.Withdraw
+5.Transfer
+6.Exit
+Enter your choice (1/2/3/4/5/6):
+1
+Enter which Account you want to open:
+1.Savings
+2.Current:
+2
+Enter details for the Current Account:
+
+Enter full name:
+Rahul Triwedi
+Enter your date of birth (yyyy-mm-dd):
+2004-11-23
+Enter Business Name:
+IntelCorps
+Enter Registration Number:
+234567890123
+Enter the GST number:
+22ABCDE1234F1Z5
+Enter your Website:
+www.intelcorps.com
+Checking GST Number for duplicate accounts...
+Unique GST Number!
+For Current Account you need to deposit at least 10000 in order to open account.
+Do you wish to proceed?(1-Yes|2-No):
+1
+Enter new Pin number(4 digits only):
+4321
+Enter the type of privilege(1/2/3):
+1.Premium
+2.Gold
+3.Silver
+2
+1 Account Added to Database Successfully
+1 Current Account Added to Database Successfully
+Current Account created successfully.
+********************************************************
+Account details:
+Current Account Details:
+Account Id: 2
+Accountholder Name: Rahul Triwedi
+Date of Birth: 2004-11-23
+Account Number: RAHF1Z51002
+Account Type: CurrentAccount
+Business name: IntelCorps
+Website: www.intelcorps.com
+Privilege Gold
+Account Balance: 10000.0
+Account Status: Active
+********************************************************
+************************************************************************************
+			Welcome to Global Destination Bank!
+************************************************************************************
+DASHBOARD
+1.Open
+2.Close
+3.Deposit
+4.Withdraw
+5.Transfer
+6.Exit
+Enter your choice (1/2/3/4/5/6):
+3
+Enter the Account Number:
+TEJ01231001
+Enter your pin:
+1234
+Enter the Amount to deposit:
+13000
+Deposit Transaction Added into Database
+Deposit Successful.
+Amount After Deposit: 15000.0
+************************************************************************************
+			Welcome to Global Destination Bank!
+************************************************************************************
+DASHBOARD
+1.Open
+2.Close
+3.Deposit
+4.Withdraw
+5.Transfer
+6.Exit
+Enter your choice (1/2/3/4/5/6):
+4
+Enter the Account Number:
+RAHF1Z51002
+Enter your pin:
+4321
+Enter the Amount to withdraw:
+2000
+Withdrawal Transaction Added into Database
+Withdrawal Successful.
+Amount After Withdraw: 8000.0
+************************************************************************************
+			Welcome to Global Destination Bank!
+************************************************************************************
+DASHBOARD
+1.Open
+2.Close
+3.Deposit
+4.Withdraw
+5.Transfer
+6.Exit
+Enter your choice (1/2/3/4/5/6):
+5
+Enter your Account Number:
+TEJ01231001
+Enter your pin:
+1234
+Enter the Account Number to which you wish to tranfer funds:
+RAHF1Z51002
+Enter the Amount to Tranfer:
+3500
+Funds transferred successfully!
+Your Balance After Deposit: 11500.0
+************************************************************************************
+			Welcome to Global Destination Bank!
+************************************************************************************
+DASHBOARD
+1.Open
+2.Close
+3.Deposit
+4.Withdraw
+5.Transfer
+6.Exit
+Enter your choice (1/2/3/4/5/6):
+6
+Exiting the application. Thank you!
